@@ -1,0 +1,8 @@
+#ifndef CONFIG_H
+#define CONFIG_H
+
+#define ADC_REFERENCE_VOLTAGE 5.0f
+#define ADC_MAX_VALUE 1023.0f
+#define TEMPERATURE_THRESHOLD 30.0f
+
+#endif
